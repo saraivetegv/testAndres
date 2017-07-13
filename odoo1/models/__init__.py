@@ -1,0 +1,2 @@
+import models_odoo1
+import models_odoo1_ventas
